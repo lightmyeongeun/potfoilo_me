@@ -23,10 +23,8 @@ time, mark, audio, video {
 	box-sizing: border-box;
 }
 
-html, body{
-	margin: 0;
-	overflow-x: hidden;
-	width: 100%;
+body {
+  font-family: 'Noto Sans KR', sans-serif;
 }
 
 a{
@@ -37,10 +35,6 @@ a{
 article, aside, details, figcaption, figure, 
 footer, header, hgroup, menu, nav, section {
 	display: block;
-}
-
-body {
-	line-height: 1;
 }
 
 ol, ul {
